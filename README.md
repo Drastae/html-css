@@ -1,1 +1,3 @@
 # html-css
+
+Hi ! In this repository, you'll find all my projects based on FreeCodeCamp or OpenClassroom and more ...
